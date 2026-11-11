@@ -404,8 +404,7 @@ Aspiring Data Analyst | Python | SQL | Power BI
 Interested in data analytics, business intelligence and transforming raw data into meaningful business insights.
 
 - **GitHub:** [Explore My Projects](https://github.com/jerry-221)
-- **LinkedIn:** [Connect with Me](YOUR_LINKEDIN_PROFILE_URL)
-- **Email:** YOUR_EMAIL_ADDRESS
+- **Email:** patilpanu221@gmail.com
 
 ---
 
